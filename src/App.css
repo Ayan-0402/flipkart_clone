@@ -1,0 +1,24 @@
+
+.background{
+  background-image: url("https://i.pinimg.com/originals/6d/0a/27/6d0a27426acc5e7bd808962b4f6d6e62.jpg");
+background-size:cover;
+
+}
+
+/* .button{
+  background: #ffe4e4;
+  color: gray;
+  height: 8vh;
+  width: 8vh;
+  margin: 8px;
+  border-radius: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.long{
+  width: 18vh;
+}
+.bit{
+  border-radius: 50%; */
